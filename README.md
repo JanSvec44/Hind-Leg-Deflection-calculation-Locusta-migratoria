@@ -145,15 +145,6 @@ Example contents:
     post_001__dtheta=...
     results.csv
 
-The CSV file contains:
-
--   frame index
--   angular displacement
--   calculated angles
--   pixel shift
--   scanline position
--   possible errors
-
 
 ## Running the program
 
