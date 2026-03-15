@@ -82,7 +82,6 @@ Handles stimulation experiments:
 - capture rest frame 
 - send trigger 
 - capture post‑stimulation frames 
-- compute displacement 
 - save images and results
 
 ### compare.py
@@ -109,7 +108,7 @@ communication.
 
 Required:
 
--   camera supported by OpenCV
+-   video recording device
 -   Keysight arbitrary waveform generator
 -   VISA interface (USB/LAN)
 
